@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Plataforma Netzor",
+    "url": "https://netzor.com.br/api/health/ready",
+    "icon": "https://icons.duckduckgo.com/ip3/netzor.com.br.ico",
+    "slug": "plataforma-netzor",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1156,
+    "timeDay": 1156,
+    "timeWeek": 1156,
+    "timeMonth": 1156,
+    "timeYear": 1156,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Netzor — backup",
+    "url": "https://netzor.com.br/api/health/backup",
+    "icon": "https://icons.duckduckgo.com/ip3/netzor.com.br.ico",
+    "slug": "netzor-backup",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5099,
+    "timeDay": 5099,
+    "timeWeek": 5099,
+    "timeMonth": 5099,
+    "timeYear": 5099,
+    "dailyMinutesDown": {}
+  }
+]
