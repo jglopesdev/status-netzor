@@ -1,6 +1,10 @@
 owner: jglopesdev
 repo: status-netzor
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 assignees:
   - jglopesdev
 
