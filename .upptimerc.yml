@@ -12,7 +12,7 @@ sites:
 
 status-website:
   baseUrl: /status-netzor
-  theme: dark
+  themeUrl: https://jglopesdev.github.io/status-netzor/tema-netzor.css
   name: Netzor
   logoUrl: https://jglopesdev.github.io/status-netzor/netzor.png
   logoHref: https://netzor.com.br
