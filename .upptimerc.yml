@@ -22,7 +22,7 @@ status-website:
   introMessage: Situação da plataforma e das cópias de segurança, verificada a cada 5 minutos. [Abrir o Netzor](https://netzor.com.br)
   navbar:
     - title: Status
-      href: /
+      href: https://jglopesdev.github.io/status-netzor/
     - title: Abrir o Netzor
       href: https://netzor.com.br
 
