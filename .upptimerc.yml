@@ -1,6 +1,9 @@
 owner: jglopesdev
 repo: status-netzor
 
+assignees:
+  - jglopesdev
+
 sites:
   - name: Plataforma Netzor
     url: https://netzor.com.br/api/health/ready
@@ -9,11 +12,81 @@ sites:
 
 status-website:
   baseUrl: /status-netzor
+  theme: dark
   name: Netzor
+  logoUrl: https://jglopesdev.github.io/status-netzor/netzor.png
+  logoHref: https://netzor.com.br
+  hideNavTitle: true
+  favicon: https://jglopesdev.github.io/status-netzor/netzor-favicon.png
   introTitle: "**Status do Netzor**"
-  introMessage: Situação da plataforma e das cópias de segurança, verificada a cada 5 minutos.
+  introMessage: Situação da plataforma e das cópias de segurança, verificada a cada 5 minutos. [Abrir o Netzor](https://netzor.com.br)
   navbar:
     - title: Status
       href: /
+    - title: Abrir o Netzor
+      href: https://netzor.com.br
 
 # https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Ocorrências em andamento
+  allSystemsOperational: Todos os sistemas estão funcionando
+  incidentReport: "Relatório da ocorrência nº $NUMBER →"
+  activeIncidentSummary: Aberta em $DATE, com $POSTS mensagens
+  incidentTitle: Ocorrência nº $NUMBER
+  incidentDetails: Detalhes da ocorrência
+  incidentFixed: Resolvida
+  incidentOngoing: Em andamento
+  incidentOpenedAt: Aberta em
+  incidentClosedAt: Encerrada em
+  incidentViewOnGitHub: Ver e acompanhar no GitHub
+  incidentCommentSummary: Publicado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todas as ocorrências
+  pastIncidents: Ocorrências anteriores
+  pastIncidentsResolved: Resolvida em $MINUTES minutos, com $POSTS mensagens
+  liveStatus: Situação agora
+  overallUptime: "Disponibilidade: $UPTIME"
+  overallUptimeTitle: Disponibilidade
+  averageResponseTime: "Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Tempo médio de resposta
+  sevelDayResponseTime: Tempo de resposta em 7 dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: No ar
+  down: Fora do ar
+  degraded: Lento
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: Esta página é [de código aberto]($REPO) e funciona com o [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Limite de consultas atingido
+  rateLimitExceededIntro: Você passou do número de consultas permitidas em uma hora. Espere um pouco antes de abrir esta página de novo ou informe uma chave de acesso do GitHub para continuar.
+  rateLimitExceededWhatDoesErrorMean: O que significa este erro?
+  rateLimitExceededErrorMeaning: Esta página consulta o GitHub para mostrar a situação em tempo real. O GitHub permite 60 consultas por hora para cada endereço de internet, e esse limite foi usado.
+  rateLimitExceededErrorHowCanFix: Como resolver?
+  rateLimitExceededErrorFix: Espere uma hora para o limite voltar ou informe uma chave de acesso do GitHub, que libera mais 5.000 consultas por hora.
+  rateLimitExceededGeneratePAT: Saiba como gerar uma chave de acesso
+  rateLimitExceededHasSet: Você já informou uma chave de acesso.
+  rateLimitExceededRemoveToken: Remover a chave
+  rateLimitExceededGitHubPAT: Chave de acesso do GitHub
+  rateLimitExceededCopyPastePAT: Copie e cole a sua chave
+  rateLimitExceededSaveToken: Salvar a chave
+  errorTitle: Ocorreu um erro
+  errorIntro: Não foi possível buscar a situação mais recente.
+  errorText: Tente de novo em alguns instantes.
+  errorHome: Ir para o início
+  pastScheduledMaintenance: Manutenções anteriores
+  scheduledMaintenance: Manutenção programada
+  scheduledMaintenanceSummaryStarted: Começou em $DATE, com duração de $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Começa em $DATE, com duração de $DURATION minutos
+  startedAt: Começou em
+  startsAt: Começa em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Concluída
+  incidentScheduled: Programada
+  duration24H: 24h
+  duration7D: 7 dias
+  duration30D: 30 dias
+  duration1Y: 1 ano
+  durationAll: tudo
+  locale: pt-BR
