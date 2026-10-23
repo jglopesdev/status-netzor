@@ -4,19 +4,19 @@
     "url": "https://netzor.com.br/api/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/netzor.com.br.ico",
     "slug": "plataforma-netzor",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2290,
-    "timeDay": 10240,
-    "timeWeek": 3149,
-    "timeMonth": 2290,
-    "timeYear": 2290,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "88.11%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 2195,
+    "timeDay": 7047,
+    "timeWeek": 2872,
+    "timeMonth": 2195,
+    "timeYear": 2195,
     "dailyMinutesDown": {
-      "2026-10-23": 1
+      "2026-10-23": 171
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://netzor.com.br/api/health/backup",
     "icon": "https://icons.duckduckgo.com/ip3/netzor.com.br.ico",
     "slug": "netzor-backup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6324,
-    "timeDay": 12444,
-    "timeWeek": 7270,
-    "timeMonth": 6324,
-    "timeYear": 6324,
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
+    "time": 6221,
+    "timeDay": 9821,
+    "timeWeek": 6970,
+    "timeMonth": 6221,
+    "timeYear": 6221,
     "dailyMinutesDown": {
-      "2026-10-23": 0
+      "2026-10-23": 170
     }
   }
 ]
