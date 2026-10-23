@@ -1,7 +1,7 @@
 url: https://netzor.com.br/api/health/backup
-status: down
-code: 522
-responseTime: 19774
-lastUpdated: 2026-10-23T20:25:10.826Z
+status: up
+code: 200
+responseTime: 4575
+lastUpdated: 2026-10-23T23:15:19.781Z
 startTime: 2026-10-13T13:18:19.029Z
 generator: Upptime <https://github.com/upptime/upptime>
